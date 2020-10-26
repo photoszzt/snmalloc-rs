@@ -1,4 +1,3 @@
-[submodule "new"]
+[submodule "snmalloc-sys/snmalloc"]
 	path = snmalloc-sys/snmalloc
-	url = https://github.com/microsoft/snmalloc
-	branch = master
+	url = https://github.com/photoszzt/snmalloc.git
